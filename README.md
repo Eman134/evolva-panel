@@ -33,6 +33,7 @@ Desenvolver uma interface moderna, responsiva e intuitiva para que usuários pos
 - Context API
 - Axios
 - Tailwind
+- Shadcn
 
 ---
 
