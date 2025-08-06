@@ -4,7 +4,7 @@ Frontend da plataforma **Evolva**, um painel React para criação, personalizaç
 
 [![Evolva Core](https://img.shields.io/badge/🧩%20Ver%20Backend-evolva--core-green?style=flat-square)](https://github.com/Eman134/evolva-core)
 ![Last Commit](https://img.shields.io/github/last-commit/Eman134/evolva-panel?style=flat-square)
-![React](https://img.shields.io/badge/React-18-blue?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square)
 ![License](https://img.shields.io/badge/license-read--only-red?style=flat-square)
 
 ---
@@ -28,12 +28,10 @@ Desenvolver uma interface moderna, responsiva e intuitiva para que usuários pos
 
 ## 🧪 Tecnologias previstas
 
-- React
-- React Router
+- Next.js
 - Context API
-- Axios
 - Tailwind
-- Shadcn
+- Shadcn/UI
 
 ---
 
